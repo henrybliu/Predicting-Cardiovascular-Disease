@@ -29,8 +29,8 @@ Interpretation and visualization: We presented our findings through clear and in
 # In Progress
 We are currently working on enhancing our project by incorporating additional features and developing an interactive interface for improved analysis of cardiovascular disease (CVD) risk.
 
-## Obesity Relationship
-One of the ongoing efforts involves exploring the relationship between height, weight, and obesity in the dataset. By examining this relationship, we aim to gain further insights into how obesity impacts the likelihood of developing CVD. This analysis will allow me to identify the significance of obesity as a predictor of CVD and its interaction with other attributes.
+## Additional ML Models
+We aim to evaluate several commonly used machine learning models for predicting heart diseases to determine which model achieves the highest accuracy. The selected model will be utilized in our interactive interface to provide accurate predictions.
 
 ## Interactive Interface
 To provide a user-friendly experience and enable personalized risk assessment, we are working on creating an interactive interface. This interface will allow users to input their characteristics, including relevant health attributes, and obtain an estimated diagnosis of their likelihood of having cardiovascular disease. By integrating the developed models, the interface will provide valuable insights and assist users in understanding their CVD risk profile.
