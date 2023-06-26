@@ -2,7 +2,7 @@
 This project aims to analyze a dataset of 70,000 surveyed patients to identify correlations and predictors of Cardiovascular Disease (CVD). By conducting data cleaning and analysis, we aim to uncover significant factors that influence the likelihood of having CVD. Specifically, our findings indicate that systolic and diastolic blood pressure, cholesterol levels, age, and weight are the most significant indicators of susceptibility to CVD.
 
 # Dataset
-The dataset used for this analysis consists of 70,000 patient records collected through surveys. Each record contains various attributes related to the patients' health, including blood pressure readings, cholesterol levels, age, weight, and the presence or absence of CVD. The dataset has been preprocessed to remove any inconsistencies or missing values to ensure accurate analysis.
+The [dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) used for this analysis consists of 70,000 patient records collected through surveys. Each record contains various attributes related to the patients' health, including blood pressure readings, cholesterol levels, age, weight, and the presence or absence of CVD. The dataset has been preprocessed to remove any inconsistencies or missing values to ensure accurate analysis.
 
 # Goals
 The primary objectives of this project are as follows:
