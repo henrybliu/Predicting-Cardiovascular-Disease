@@ -1,5 +1,5 @@
 # Machine Learning - Predicting Cardiovascular Disease
-This project aims to analyze a dataset of 70,000 surveyed patients to identify correlations and predictors of Cardiovascular Disease (CVD). By conducting data cleaning and analysis, we aim to uncover significant factors that influence the likelihood of having CVD. Specifically, our findings indicate that systolic and diastolic blood pressure, cholesterol levels, age, and weight are the most significant indicators of susceptibility to CVD.
+This project aims to analyze a dataset of 70,000 surveyed patients to identify correlations and predictors of Cardiovascular Disease (CVD). By performing exploratory data analysis and evaluating our selected Machine Learning models against performance metrics such as accuracy, precision, recall, and f1-score, we aim to uncover significant factors that influence the likelihood of having CVD. Specifically, our findings indicate that systolic and diastolic blood pressure, cholesterol levels, age, weight, and BMI are the most significant indicators of susceptibility to CVD.
 
 # Dataset
 The [dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) used for this analysis consists of 70,000 patient records collected through surveys. Each record contains various attributes related to the patients' health, including blood pressure readings, cholesterol levels, age, weight, and the presence or absence of CVD. The dataset has been preprocessed to remove any inconsistencies or missing values to ensure accurate analysis.
@@ -26,15 +26,10 @@ Model development: We developed predictive models using machine learning algorit
 
 Interpretation and visualization: We presented our findings through clear and interpretable visualizations, including charts, graphs, and tables. These visual aids help communicate the relationships and patterns we discovered in the dataset.
 
-# In Progress
-We are currently working on enhancing our project by developing an interactive interface for improved analysis of cardiovascular disease (CVD) risk.
-
 ## Interactive Interface
-To provide a user-friendly experience and enable personalized risk assessment, we are working on creating an interactive interface. This interface will allow users to input their characteristics, including relevant health attributes, and obtain an estimated diagnosis of their likelihood of having cardiovascular disease. By integrating the developed models, the interface will provide valuable insights and assist users in understanding their CVD risk profile.
+To provide a user-friendly experience and enable personalized risk assessment, we created an interactive interface. This interface allows users to input their characteristics, including relevant health attributes, and obtain an estimated diagnosis of their likelihood of having cardiovascular disease. By integrating the developed models, the interface will provide valuable insights and assist users in understanding their CVD risk profile.
 
 # Results & Conclusion
 Our analysis confirmed the significance of systolic and diastolic blood pressure, as well as obesity, in predicting the presence of cardiovascular disease (CVD). By considering features such as age, height, weight, gender, blood pressure, cholesterol, glucose levels, smoking status, alcohol intake, and physical activity, we achieved an accuracy of approximately 72% in predicting CVD using an artificial neural network (ANN) machine learning model.
 
 However, it is important to highlight that this accuracy can be further improved through better data collection and the utilization of a larger dataset. By leveraging an ANN model, we can harness the power of complex non-linear relationships and patterns present in the data to enhance prediction accuracy. To maximize the potential of our model in the future, we recommend gathering data that is collected and entered by medical professionals. This approach can help minimize user bias and errors, ultimately contributing to the development of a more robust and reliable predictive model for CVD.
-
-**INTERFACE STILL IN PROGRESS**
